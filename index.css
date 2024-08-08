@@ -11,7 +11,7 @@ body{
     border-radius: 15px;
     margin-left: 20%;
     margin-right: 20%;
-    margin-top: 8%;
+    margin-top: 3%;
 }
 
 h1{
@@ -37,7 +37,6 @@ p{
     border-radius: 15PX;
     margin-left: 10%;
     margin-right: 10%;
-
 }
 
 #radom{
@@ -58,6 +57,7 @@ button{
     font-weight: 500;
     margin-left: 10%;
     margin-right: 10%;
+    margin-bottom: 3%;
 }
 
 #buttons{
