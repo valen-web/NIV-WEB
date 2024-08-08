@@ -1,0 +1,68 @@
+body{
+   background-color: #7429C6;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Scramblle{
+    background-color:  #030616;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    border-radius: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 8%;
+}
+
+h1{
+    background: linear-gradient(to right,#7429C6,#C951E7);
+    -webkit-background-clip: text;
+    color: transparent; 
+    display: flex;
+   justify-content: center;
+   font-size: 30px;
+}
+
+#tries_mistakes{
+    display: flex;
+}
+
+p{
+    margin: 10%;
+    color: #4A5567;
+}
+
+#radom_word{
+    background: #97a3b671;
+    border-radius: 15PX;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+#radom{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 20%;
+    height: 25%;
+    padding: 2%;
+    border-radius: 10px;
+    background-color: #C951E7;
+    border:none;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#buttons{
+    display: flex;
+    justify-content: center;
+}
+
+
